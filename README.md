@@ -1,2 +1,2 @@
-# Data-science-codes
-Compilation of data science codes
+# Beginner
+Compilation of beginner projects I'm using to learn data science
